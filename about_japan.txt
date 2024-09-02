@@ -174,4 +174,68 @@ winter - snow
   background-color: #e0952f;
 }
 
+<!-- Gallery -->
+<div class="gallery">
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp3.jpg"
+            />
+            <!-- <figcaption>Caption</figcaption> -->
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp10.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp4.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp12.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp15.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp18.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp8.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp9.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp11.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp14.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp21.jpg"
+            />
+          </figure>
+          <figure class="gallery-item">
+            <img
+              src="img/jp_gallery_new/jp22.jpg"
+            />
+          </figure>
+        </div>
 
